@@ -1,4 +1,4 @@
-# Welcome👋 to my Github profile
+# Welcome👋 to my <span style="font-family:Papyrus;">Github</span> profile
 
 ![freelion93's github stats](https://github-readme-stats.vercel.app/api?username=freelion93&show_icons=true&theme=radical)
 
