@@ -1,4 +1,4 @@
-# Welcome👋 to my <img src="https://github.com/favicon.ico" width="24" alt="Github"> profile
+# Welcome👋 to my Github profile
 
 ![freelion93's github stats](https://github-readme-stats.vercel.app/api?username=freelion93&show_icons=true&theme=radical)
 
