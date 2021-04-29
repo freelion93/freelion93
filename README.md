@@ -14,7 +14,7 @@
    
      
     *Backend Technologies*:  
-    <img src="https://c3.klipartz.com/pngpicture/439/370/sticker-png-numix-circle-for-windows-nodejs-icon-thumbnail.png " width="32">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="32">
     <img src="https://img.icons8.com/color/48/000000/python.png" width="32">
 
     *Databases*:  
