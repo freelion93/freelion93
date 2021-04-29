@@ -14,8 +14,8 @@
    
      
     *Backend Technologies*:  
-    <img src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg " width="32">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png " width="32">
+    <img src="https://c3.klipartz.com/pngpicture/439/370/sticker-png-numix-circle-for-windows-nodejs-icon-thumbnail.png " width="32">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm0G5E3YxOjOQBe29fJFY9Hmdvy4DvUVbt-Q&usqp=CAU " width="32">
 
     *Databases*:  
     <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" width="32">
