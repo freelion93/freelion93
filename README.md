@@ -2,7 +2,6 @@
 
 ![freelion93's github stats](https://github-readme-stats.vercel.app/api?username=freelion93&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on [Learning Object Model for the Library of Graz University of Technology](https://github.com/tu-graz-library/invenio-records-lom)
 - 🌱 I’m advancing my skills in:
     
     *Frontend Technologies*:  
