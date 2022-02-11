@@ -22,9 +22,5 @@
 
 - 🔦 How to reach me out: 
 
-        ✉ gordon5193@mail.ru
-        📱 +43 (677) 621-092-85
-        🎮STEAM: Meow-pew-pew
-
-
-- ⚡ Fun fact: I love cats🐱‍👓
+        ✉️ gordon5193@mail.ru
+        📱 +7 (999) 168-08-01
